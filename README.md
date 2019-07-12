@@ -1,1 +1,1 @@
-# mechintosh
+# blueOS
